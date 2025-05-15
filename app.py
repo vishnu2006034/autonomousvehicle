@@ -1,10 +1,4 @@
-"""
-ArtBots: Autonomous Robot Art Simulation Core
-A simplified college project demonstrating robotic behavior and generative art
-
-Author: Your Name
-License: MIT
-"""
+"Autonomous Vehicles and Robotics"
 
 import math
 import random
