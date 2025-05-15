@@ -1,5 +1,5 @@
-# autonomousvehicle
-#  Autonomous vehicles Robot Art Simulation
+
+#  Autonomous vehicles and Robot Art Simulation
 
 A simplified, interactive Python simulation using autonomous robots that create generative art while navigating a 2D environment. Inspired by swarm intelligence and robotics algorithms, this project is suitable for learning or demonstration purposes in college-level robotics, AI, or generative art.
 
